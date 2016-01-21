@@ -9,7 +9,7 @@ name: Yuxin(Daisy) Zhu
 description: Biostatistics PhD student at Johns Hopkins University
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://scontent-lga3-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/10336617_533895970065933_7302878187609847823_n.jpg?oh=a6e1839a3ec2672f398a1ced8d3fdb6d&oe=573C1FFD
 
 #
 # Flags below are optional
@@ -19,17 +19,17 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: 
   flickr:
   github: barryclark/jekyll-now
   instagram:
-  linkedin:
+  linkedin: barryclark/jekyll-now
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  rss: 
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: daisy.zhu.yx
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
